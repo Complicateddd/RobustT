@@ -23,11 +23,19 @@ conda install pytorch torchvision -c pytorch
 
 
 
+## Clone this repo
+
+```shell
+git clone https://github.com/Complicateddd/RobustT.git
+```
+
+
+
 ## Build Detectron2 from Source
 
 Follow the [INSTALL.md](https://github.com/facebookresearch/detectron2/blob/master/INSTALL.md) to install Detectron2.
 
-Follow our specific detectron2 components with [README.md](https://github.com/Complicateddd/RobustT/blob/master/detectron2/README.md) to modify base detection framework.
+***Note:*** Follow our specific detectron2 components with [README.md](https://github.com/Complicateddd/RobustT/blob/master/detectron2/README.md) to modify base detection framework.
 
 
 
