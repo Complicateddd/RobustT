@@ -1,6 +1,6 @@
 # Robust Teacher : Self-Correcting Pseudo-Labels Guided Robust Semi-Supervised Learning for Object Detection
 
-#### <u>PyTorch Implements Early Release Version</u> (2022.6)
+#### *(2022.6) PyTorch Implements Early Version Release*
 
 
 # Installation
@@ -104,7 +104,13 @@ python train_net.py \
        MODEL.WEIGHTS <your weight>.pth
 ```
 
-## 
 
 
+## Reference
+
+**This repository draws on the following excellent works:**
+
+[Unbiased Teacher](https://github.com/facebookresearch/unbiased-teacher)
+
+[Soft-Teacher](https://github.com/microsoft/SoftTeacher)
 
