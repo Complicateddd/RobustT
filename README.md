@@ -46,7 +46,7 @@ wget http://images.cocodataset.org/annotations/annotations_trainval2017.zip
 
 2. Download Pascal VOC dataset from [VOC challenges website](http://host.robots.ox.ac.uk:8080/pascal/VOC/).
 2. **Update** **your project dataset position** in 'detectron2/data/datasets/builtin.py'
-2. **We provide the whole dataset necessary info file, you can download them  at ** [VOC_COCO_info](https://pan.baidu.com/s/1jyeyErlD2s314NVh7amllw), password: l2h5
+2. **We provide the whole dataset necessary info file, you can download them from**  [VOC_COCO_info](https://pan.baidu.com/s/1jyeyErlD2s314NVh7amllw), password: l2h5
 
 
 
